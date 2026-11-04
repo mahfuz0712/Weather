@@ -1,0 +1,10 @@
+{
+  "name": "Weather",
+  "description": "Sci-fi HUD weather app: live conditions, hourly and 7-day forecast, air quality, saved places.",
+  "version": "1.0.0",
+  "ageRating": "3+",
+  "type": "app",
+  "containsAds": false,
+  "category": "Tools",
+  "author": "Mohammad Mahfuz Rahman"
+}
